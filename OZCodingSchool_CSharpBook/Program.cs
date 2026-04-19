@@ -4,10 +4,8 @@ using static System.Console;
 
 namespace OZCodingSchool_CSharpBook
 {
-    class BraceLocation
-    {
-        static void Main(string[] args)
-        {
+    class BraceLocation {
+        static void Main(string[] args) {
 
         }
     }
