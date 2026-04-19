@@ -1,12 +1,12 @@
-﻿using system;
+﻿using System;
 
 namespace OZCodingSchool_CSharpBook
 {
-    class casesensitive
+    class Casesensitive
     {
-        static void main(string[] args)
+        static void Main(string[] args)
         {
-            console.writeline("C#은 대소문자 구분 언어");
+            Console.WriteLine("C#은 대소문자 구분 언어");
         }
     }
 }
