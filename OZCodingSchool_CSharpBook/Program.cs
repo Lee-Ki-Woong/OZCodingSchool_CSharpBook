@@ -2,11 +2,12 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class Casesensitive
+    class WriteLineDemo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C#은 대소문자 구분 언어");
+            Console.Write("줄 바꿈 없음");
+            Console.WriteLine("줄 바꿈 포함");
         }
     }
 }
