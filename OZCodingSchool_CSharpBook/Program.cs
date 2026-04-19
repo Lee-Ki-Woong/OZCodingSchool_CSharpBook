@@ -1,12 +1,12 @@
-﻿using System;
-using System.Globalization;
-using static System.Console;
+﻿using system;
 
 namespace OZCodingSchool_CSharpBook
 {
-    class BraceLocation {
-        static void Main(string[] args) {
-
+    class casesensitive
+    {
+        static void main(string[] args)
+        {
+            console.writeline("C#은 대소문자 구분 언어");
         }
     }
 }
