@@ -2,10 +2,11 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class Program
+    class HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
         }
     }
 }
