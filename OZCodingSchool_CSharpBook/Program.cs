@@ -1,12 +1,14 @@
-﻿using static System.Console;
+﻿using System;
+using System.Globalization;
+using static System.Console;
 
 namespace OZCodingSchool_CSharpBook
 {
-    class WriteLineDemo
+    class BraceLocation
     {
         static void Main(string[] args)
         {
-            WriteLine("명령 프롬프트에 출력할 내용");
+
         }
     }
 }
