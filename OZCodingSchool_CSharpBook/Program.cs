@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace OZCodingSchool_CSharpBook
+﻿namespace OZCodingSchool_CSharpBook
 {
-    class HelloWorld
+    class UsingDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Hello, World!");
         }
     }
 }
