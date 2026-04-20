@@ -2,12 +2,11 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class WriteLineDemo1
+    class NewLine
     {
         static void Main(string[] args)
         {
-            Console.Write("줄 바꿈 없음");
-            Console.WriteLine("줄 바꿈 포함");
+            Console.WriteLine("줄\n바꿈");
         }
     }
 }
