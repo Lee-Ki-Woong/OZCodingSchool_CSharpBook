@@ -2,11 +2,16 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class Comment
+    class Whitespace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("주석문"); //실행에 영향을 주지 않는 코드 설명문
+            Console.WriteLine("C#");
+            Console.       WriteLine      (       "C#"        )       ;
+            Console
+                .WriteLine(
+                "C#")
+                ;
         }
     }
 }
