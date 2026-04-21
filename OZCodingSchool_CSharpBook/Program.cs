@@ -2,13 +2,12 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class VriableNote
+    class VriableDemo
     {
         static void Main(string[] args)
         {
-            int i;
-            i = 1234;
-            Console.WriteLine( i);
+            int number = 7;
+            Console.WriteLine( "{0}", number);
         }
     }
 }
