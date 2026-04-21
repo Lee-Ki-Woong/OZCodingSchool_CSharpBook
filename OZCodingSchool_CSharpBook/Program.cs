@@ -2,12 +2,12 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class Quotes
+    class PlaceHolder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("[1] \" 난 큰따옴표야.");
-            Console.WriteLine("[2] \' 난 작은따옴표야.");
+            Console.WriteLine("{0}, {1}", "안녕", "반가워");
+            Console.WriteLine("{3}, {1}, {2}","나빠", "좋은", "세상", "야호");
         }
     }
 }
