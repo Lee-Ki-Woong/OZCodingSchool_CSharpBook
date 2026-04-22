@@ -2,15 +2,12 @@
 
 namespace OZCodingSchool_CSharpBook
 {
-    class VriableSameValue
+    class ConstantDemo
     {
         static void Main(string[] args)
         {
-            int a, b, c;
-
-            a = b = c = 10;
-
-            Console.WriteLine( "{0}, {1}, {2}", a, b, c);
+            const int MAX = 100;
+            Console.WriteLine( "최댓값 : {0}", MAX);
         }
     }
 }
